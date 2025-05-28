@@ -20,13 +20,14 @@
 <h4 align="left">Companies I Served:</h4>
 
 <ul>
-  <li>🇺🇸 <strong>Practice Automations</strong> - Remote (USA)</li>
-  <li>🇺🇸 <strong>Vouch</strong> - Remote (USA)</li>
-  <li>🇺🇸 <strong>Nucleus</strong> - Remote (USA)</li>
-  <li>🇬🇧 <strong>CarenCure</strong> - Remote (UK)</li>
-  <li>🇺🇸 <strong>PriorityXtraCare</strong> - Remote (USA)</li>
-  <li>🇨🇦 <strong>AnytimeMetals</strong> - Remote (Canada)</li>
+  <li>🇺🇸 <strong><a href="https://practiceautomations.com/" target="_blank">Practice Automations</a></strong> – Remote (USA)</li>
+  <li>🇺🇸 <strong>Vouch</strong> – Remote (USA)</li>
+  <li>🇺🇸 <strong>Nucleus</strong> – Remote (USA)</li>
+  <li>🇬🇧 <strong>CarenCure</strong> – Remote (UK)</li>
+  <li>🇺🇸 <strong>PriorityXtraCare</strong> – Remote (USA)</li>
+  <li>🇨🇦 <strong>AnytimeMetals</strong> – Remote (Canada)</li>
 </ul>
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
