@@ -21,11 +21,11 @@
 
 <ul>
   <li>🇺🇸 <strong><a href="https://practiceautomations.com/" target="_blank">Practice Automations</a></strong> – Remote (USA)</li>
-  <li>🇺🇸 <strong>Vouch</strong> – Remote (USA)</li>
-  <li>🇺🇸 <strong>Nucleus</strong> – Remote (USA)</li>
-  <li>🇬🇧 <strong>CarenCure</strong> – Remote (UK)</li>
-  <li>🇺🇸 <strong>PriorityXtraCare</strong> – Remote (USA)</li>
-  <li>🇨🇦 <strong>AnytimeMetals</strong> – Remote (Canada)</li>
+  <li>🇺🇸 <strong><a href="https://nucleusrcm.com/" target="_blank">Nucleus RCM</a></strong> – Remote (USA)</li>
+  <li>🇺🇸 <strong><a href="https://web.thevouchapp.com/" target="_blank">Vouch</a></strong> – Remote (USA)</li>
+  <li>🇬🇧 <strong><a href="https://carencure.co.uk/" target="_blank">CareNCure London</a></strong> – Remote (UK)</li>
+  <li>🇺🇸 <strong><a href="https://priorityxtracare.com/" target="_blank">PriorityXtraCare</a></strong> – Remote (USA)</li>
+  <li>🇺🇸 <strong><a href="https://www.greatlakesmbpm.com/" target="_blank">Great Lakes MBPM</a></strong> – Remote (USA)</li>
 </ul>
 
 
