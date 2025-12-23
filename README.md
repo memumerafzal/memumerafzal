@@ -4,14 +4,14 @@
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memumerafzal&label=Profile%20views&color=0e75b6&style=flat" alt="memumerafzal" /> </p>
 
-🧩 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗲𝗹𝗶𝘃𝗲𝗿
-☁️ Cloud: Azure & AWS & GCP
-🐳 Containers & Orchestration: Docker, Docker Compose, Kubernetes (EKS)
-🚀 CI/CD Pipelines: GitHub Actions, Jenkins, AWS CodePipeline, CircleCI
-🏗️ Infrastructure as Code: Terraform, AWS CloudFormation, CDK
-📈 Monitoring & Observability: CloudWatch, Prometheus, Grafana
-💻 Scripting & Automation: Bash, Python
-☁️ Automated deployments for Node.js, Python, PHP, .NET, React, and microservices and more.
+- 🧩 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗲𝗹𝗶𝘃𝗲𝗿
+- ☁️ Cloud: Azure & AWS & GCP
+- 🐳 Containers & Orchestration: Docker, Docker Compose, Kubernetes (EKS)
+- 🚀 CI/CD Pipelines: GitHub Actions, Jenkins, AWS CodePipeline, CircleCI
+- 🏗️ Infrastructure as Code: Terraform, AWS CloudFormation, CDK
+- 📈 Monitoring & Observability: CloudWatch, Prometheus, Grafana
+- 💻 Scripting & Automation: Bash, Python
+- ☁️ Automated deployments for Node.js, Python, PHP, .NET, React, and microservices and more.
 
 
 - 💬 WhatsaApp me **+923217211308**
