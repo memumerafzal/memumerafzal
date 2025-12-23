@@ -17,7 +17,7 @@
 - 💬 WhatsaApp me **+923217211308**
 
 - 📫 How to reach me **me.mumerafzal@gmail.com**
-- <h5 align="left">HIRE ME:</h5> **https://www.upwork.com/freelancers/muhammadumerafzal**
+- <h5 align="left">HIRE ME:</h5> https://www.upwork.com/freelancers/muhammadumerafzal
 
 - ⚡ Fun fact **Diving deep into DevOps**
 <h4 align="left">Companies I Served:</h4>
