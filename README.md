@@ -1,119 +1,113 @@
-<h1 align="left">Hi 👋, I'm M.Umer Afzal</h1>
-<h3 align="center">I'm a passionate DevOps / IT Support engineer specializing in cloud technologies and automation</h3>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  M. UMER AFZAL · README                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=memumerafzal&label=Profile%20views&color=0e75b6&style=flat" alt="memumerafzal" /> </p>
+<div align="center">
 
-- 🧩 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗲𝗹𝗶𝘃𝗲𝗿
-- ☁️ Cloud: Azure & AWS & GCP
-- 🐳 Containers & Orchestration: Docker, Docker Compose, Kubernetes (EKS)
-- 🚀 CI/CD Pipelines: GitHub Actions, Jenkins, AWS CodePipeline, CircleCI
-- 🏗️ Infrastructure as Code: Terraform, AWS CloudFormation, CDK
-- 📈 Monitoring & Observability: CloudWatch, Prometheus, Grafana
-- 💻 Scripting & Automation: Bash, Python
-- ☁️ Automated deployments for Node.js, Python, PHP, .NET, React, and microservices and more.
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ whoami                                                     │
+│  > M. Umer Afzal — DevOps / Cloud Engineer                    │
+│  $ cat focus.txt                                              │
+│  > Cloud · Automation · CI/CD · Infrastructure as Code        │
+└─────────────────────────────────────────────────────────────┘
+```
 
+[![Profile views](https://komarev.com/ghpvc/?username=memumerafzal&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/memumerafzal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/memumerafzal)
+[![Upwork](https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/muhammadumerafzal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me.mumerafzal@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923217211308)
 
-- 💬 WhatsaApp me **+923217211308**
+</div>
 
-- 📫 How to reach me **me.mumerafzal@gmail.com**
-- <h5 align="left">HIRE ME:</h5> https://www.upwork.com/freelancers/muhammadumerafzal
+---
 
-- ⚡ Fun fact **Diving deep into DevOps**
-<h4 align="left">Companies I Served:</h4>
+### `~/ whoami`
 
-<ul>
-  <li>🇺🇸 <strong><a href="https://practiceautomations.com/" target="_blank">Practice Automations</a></strong> – Remote (USA)</li>
-  <li>🇺🇸 <strong><a href="https://nucleusrcm.com/" target="_blank">Nucleus RCM</a></strong> – Remote (USA)</li>
-  <li>🇺🇸 <strong><a href="https://web.thevouchapp.com/" target="_blank">Vouch</a></strong> – Remote (USA)</li>
-  <li>🇬🇧 <strong><a href="https://carencure.co.uk/" target="_blank">CareNCure London</a></strong> – Remote (UK)</li>
-  <li>🇺🇸 <strong><a href="https://priorityxtracare.com/" target="_blank">PriorityXtraCare</a></strong> – Remote (USA)</li>
-  <li>🇺🇸 <strong><a href="https://www.greatlakesmbpm.com/" target="_blank">Great Lakes MBPM</a></strong> – Remote (USA)</li>
-</ul>
+> Passionate **DevOps / IT Support engineer** specializing in cloud technologies and automation. I build reliable pipelines, automate the boring parts, and keep infrastructure shipping.
 
+- 🔭 &nbsp;Diving deep into **DevOps** — cloud, containers, and everything that ships code faster
+- ⚙️ &nbsp;I automate deployments for **Node.js, Python, PHP, .NET, React**, and microservices
+- 🤝 &nbsp;Open to freelance & remote work — **[hire me on Upwork](https://www.upwork.com/freelancers/muhammadumerafzal)**
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/memumerafzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="memumerafzal" height="20" width="30" /></a>
-</p>
+---
 
-<h4 align="left">Languages and Tools:</h4>
+### `~/ what-i-deliver`
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://circleci.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://travis-ci.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
-  </a>
-</p>
+| Domain | Tooling |
+| :--- | :--- |
+| ☁️ **Cloud** | Azure · AWS · GCP |
+| 🐳 **Containers & Orchestration** | Docker · Docker Compose · Kubernetes (EKS) |
+| 🚀 **CI/CD Pipelines** | GitHub Actions · Jenkins · AWS CodePipeline · CircleCI |
+| 🏗️ **Infrastructure as Code** | Terraform · CloudFormation · CDK |
+| 📈 **Monitoring & Observability** | CloudWatch · Prometheus · Grafana |
+| 💻 **Scripting & Automation** | Bash · Python |
 
-<!--
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
--->
+---
 
+### `~/ tech-stack`
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### `~/ experience`
+
+> Companies I've served — remote, across the 🇺🇸 US and 🇬🇧 UK:
+
+<table>
+  <tr>
+    <td>🇺🇸 <a href="https://practiceautomations.com/"><b>Practice Automations</b></a></td>
+    <td>🇺🇸 <a href="https://nucleusrcm.com/"><b>Nucleus RCM</b></a></td>
+    <td>🇺🇸 <a href="https://web.thevouchapp.com/"><b>Vouch</b></a></td>
+  </tr>
+  <tr>
+    <td>🇬🇧 <a href="https://carencure.co.uk/"><b>CareNCure London</b></a></td>
+    <td>🇺🇸 <a href="https://priorityxtracare.com/"><b>PriorityXtraCare</b></a></td>
+    <td>🇺🇸 <a href="https://www.greatlakesmbpm.com/"><b>Great Lakes MBPM</b></a></td>
+  </tr>
+</table>
+
+---
+
+### `~/ github-stats`
+
+<div align="center">
+
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=memumerafzal&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memumerafzal&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=memumerafzal&theme=dark&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+$ echo "Let's build something reliable together."
+```
+
+📫 &nbsp;**me.mumerafzal@gmail.com** &nbsp;·&nbsp; 💬 &nbsp;**+92 321 7211308**
+
+</div>
