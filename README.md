@@ -93,8 +93,8 @@
 
 <div align="center">
 
-![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=memumerafzal&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memumerafzal&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6)
+![Umer's GitHub stats](https://github-readme-stats-lovat-chi-62.vercel.app/api?username=memumerafzal&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6)
+![Top Languages](https://github-readme-stats-lovat-chi-62.vercel.app/api/top-langs/?username=memumerafzal&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=memumerafzal&theme=dark&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)
 
