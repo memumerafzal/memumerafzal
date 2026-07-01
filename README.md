@@ -50,15 +50,25 @@
 
 <div align="center">
 
-<a href="https://github.com/memumerafzal/k8s">
-  <img src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=k8s&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="k8s — one-command Kubernetes demo on kind" />
-</a>
-<a href="https://github.com/memumerafzal/terraform-ansible-hub">
-  <img src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=terraform-ansible-hub&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="terraform-ansible-hub — Terraform + Ansible IaC" />
-</a>
-<a href="https://github.com/memumerafzal/supabase-cicd-starter">
-  <img src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=supabase-cicd-starter&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="supabase-cicd-starter — GitHub Actions CI/CD on Supabase" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/memumerafzal/k8s">
+        <img width="300" src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=k8s&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="k8s — one-command Kubernetes demo on kind" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/memumerafzal/terraform-ansible-hub">
+        <img width="300" src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=terraform-ansible-hub&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="terraform-ansible-hub — Terraform + Ansible IaC" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/memumerafzal/supabase-cicd-starter">
+        <img width="300" src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=supabase-cicd-starter&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="supabase-cicd-starter — GitHub Actions CI/CD on Supabase" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
