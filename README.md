@@ -46,6 +46,24 @@
 
 ---
 
+### `~/ featured-projects`
+
+<div align="center">
+
+<a href="https://github.com/memumerafzal/k8s">
+  <img src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=k8s&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="k8s — one-command Kubernetes demo on kind" />
+</a>
+<a href="https://github.com/memumerafzal/terraform-ansible-hub">
+  <img src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=terraform-ansible-hub&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="terraform-ansible-hub — Terraform + Ansible IaC" />
+</a>
+<a href="https://github.com/memumerafzal/supabase-cicd-starter">
+  <img src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=supabase-cicd-starter&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="supabase-cicd-starter — GitHub Actions CI/CD on Supabase" />
+</a>
+
+</div>
+
+---
+
 ### `~/ tech-stack`
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
