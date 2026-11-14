@@ -6,15 +6,16 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  $ whoami                                                     │
-│  > M. Umer Afzal — DevOps / Cloud Engineer                    │
-│  $ cat focus.txt                                              │
-│  > Cloud · Automation · CI/CD · Infrastructure as Code        │
+│  $ whoami                                                   │
+│  > M. Umer Afzal — DevOps & Cloud Security Engineer         │
+│  $ cat focus.txt                                            │
+│  > Cloud Strategy · Automations · Integrations              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 [![Profile views](https://komarev.com/ghpvc/?username=memumerafzal&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/memumerafzal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mmumerafzal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mumerafzal/)
+[![Credly](https://img.shields.io/badge/Credly-Verified%20Credentials-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/me.mumerafzal/badges)
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/muhammadumerafzal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me.mumerafzal@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923217211308)
@@ -25,106 +26,77 @@
 
 ### `~/ whoami`
 
-> Passionate **DevOps / IT Support engineer** specializing in cloud technologies and automation. I build reliable pipelines, automate the boring parts, and keep infrastructure shipping.
+```yaml
+name:      M. Umer Afzal
+role:      DevOps & Cloud Security Engineer
+focus:
+  - Cloud Strategy
+  - Automations
+  - Integrations
+clouds:    [AWS, Azure, GCP]
+status:    open to freelance & remote work
+```
 
-- 🔭 &nbsp;Diving deep into **DevOps** — cloud, containers, and everything that ships code faster
-- ⚙️ &nbsp;I automate deployments for **Node.js, Python, PHP, .NET, React**, and microservices
+I design, secure, and automate cloud platforms so teams can ship fast **without** cutting corners on security.
+
+- ☁️ &nbsp;**Cloud Strategy** — architecture, migrations, and multi-cloud planning across AWS, Azure, and GCP, with cost and risk in view from day one
+- 🔐 &nbsp;**Cloud Security** — identity & access hardening, secrets management, network segmentation, and guardrails baked into the pipeline
+- ⚙️ &nbsp;**Automations** — CI/CD, Infrastructure as Code, and scripted ops that replace manual, error-prone work
+- 🔗 &nbsp;**Integrations** — connecting platforms, APIs, and tooling into workflows that run themselves
 - 🤝 &nbsp;Open to freelance & remote work — **[hire me on Upwork](https://www.upwork.com/freelancers/muhammadumerafzal)**
 
 ---
 
-### `~/ what-i-deliver`
+### `~/ certifications`
 
-| Domain | Tooling |
-| :--- | :--- |
-| ☁️ **Cloud** | Azure · AWS · GCP |
-| 🐳 **Containers & Orchestration** | Docker · Docker Compose · Kubernetes (EKS) |
-| 🚀 **CI/CD Pipelines** | GitHub Actions · Jenkins · AWS CodePipeline · CircleCI |
-| 🏗️ **Infrastructure as Code** | Terraform · CloudFormation · CDK |
-| 📈 **Monitoring & Observability** | CloudWatch · Prometheus · Grafana |
-| 💻 **Scripting & Automation** | Bash · Python |
-
----
-
-### `~/ featured-projects`
+> Independently verifiable — every badge links to its live record on **[Credly](https://www.credly.com/users/me.mumerafzal/badges)**, where the issuer, issue date, and validity can be confirmed first-hand.
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/memumerafzal/k8s">
-        <img width="300" src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=k8s&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="k8s — one-command Kubernetes demo on kind" />
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/10cfe565-89ba-4d9f-85cc-3e0379b4b663">
+        <img width="88" src="https://images.credly.com/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering — The Linux Foundation" /><br />
+        <sub><b>Intro to DevOps &amp; SRE</b><br />The Linux Foundation</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/memumerafzal/terraform-ansible-hub">
-        <img width="300" src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=terraform-ansible-hub&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="terraform-ansible-hub — Terraform + Ansible IaC" />
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/25543945-31a5-4598-8d67-74a561bf2bdb">
+        <img width="88" src="https://images.credly.com/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" alt="Cloud DevOps — Intel" /><br />
+        <sub><b>Cloud DevOps</b><br />Intel</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/memumerafzal/supabase-cicd-starter">
-        <img width="300" src="https://github-readme-stats-lovat-chi-62.vercel.app/api/pin/?username=memumerafzal&repo=supabase-cicd-starter&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="supabase-cicd-starter — GitHub Actions CI/CD on Supabase" />
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/570f8e6b-d5f9-409d-a6d2-76fb599831ad">
+        <img width="88" src="https://images.credly.com/images/29e9e473-c710-46a5-8329-789240319646/image.png" alt="Multi-Cloud Strategies — Intel" /><br />
+        <sub><b>Multi-Cloud Strategies</b><br />Intel</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/7669c952-b11f-45bb-b8e3-1f87bd4abb02">
+        <img width="88" src="https://images.credly.com/images/ed0b623e-8152-4a9b-8d09-0cc8a7ad72ad/image.png" alt="AI in the Cloud — Intel" /><br />
+        <sub><b>AI in the Cloud</b><br />Intel</sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/1cdcc0e6-7dc5-483d-ba09-e7c6a04cda27">
+        <img width="88" src="https://images.credly.com/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Network Support and Security — Cisco" /><br />
+        <sub><b>Network Support &amp; Security</b><br />Cisco</sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/e053922f-4e0b-4ed1-a341-106ea0d96159">
+        <img width="88" src="https://images.credly.com/images/0d588c4b-7bc9-4cac-8861-191976ab9d18/blob" alt="Automox Pro — Automox" /><br />
+        <sub><b>Automox Pro</b><br />Automox</sub>
       </a>
     </td>
   </tr>
 </table>
 
-</div>
-
----
-
-### `~/ tech-stack`
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### `~/ experience`
-
-> Companies I've served — remote, across the 🇺🇸 US and 🇬🇧 UK:
-
-<table>
-  <tr>
-    <td>🇺🇸 <a href="https://practiceautomations.com/"><b>Practice Automations</b></a></td>
-    <td>🇺🇸 <a href="https://nucleusrcm.com/"><b>Nucleus RCM</b></a></td>
-    <td>🇺🇸 <a href="https://web.thevouchapp.com/"><b>Vouch</b></a></td>
-  </tr>
-  <tr>
-    <td>🇬🇧 <a href="https://carencure.co.uk/"><b>CareNCure London</b></a></td>
-    <td>🇺🇸 <a href="https://priorityxtracare.com/"><b>PriorityXtraCare</b></a></td>
-    <td>🇺🇸 <a href="https://www.greatlakesmbpm.com/"><b>Great Lakes MBPM</b></a></td>
-  </tr>
-</table>
-
----
-
-### `~/ github-stats`
-
-<div align="center">
-
-![Umer's GitHub stats](https://github-readme-stats-lovat-chi-62.vercel.app/api?username=memumerafzal&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6)
-![Top Languages](https://github-readme-stats-lovat-chi-62.vercel.app/api/top-langs/?username=memumerafzal&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e75b6)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=memumerafzal&theme=dark&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)
+<a href="https://www.credly.com/users/me.mumerafzal/badges"><b>→ View the full badge wall on Credly</b></a>
 
 </div>
 
