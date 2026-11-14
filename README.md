@@ -22,7 +22,11 @@
 
 <br />
 
-<a href="https://github.com/memumerafzal"><img width="100%" src="https://ghchart.rshah.org/0e75b6/memumerafzal" alt="M. Umer Afzal's GitHub contribution graph" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/memumerafzal/memumerafzal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/memumerafzal/memumerafzal/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake eating M. Umer Afzal's GitHub contribution graph" src="https://raw.githubusercontent.com/memumerafzal/memumerafzal/output/github-snake.svg" />
+</picture>
 
 </div>
 
