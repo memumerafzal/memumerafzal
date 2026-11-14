@@ -14,7 +14,7 @@
 ```
 
 [![Profile views](https://komarev.com/ghpvc/?username=memumerafzal&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/memumerafzal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/memumerafzal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mmumerafzal)
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/muhammadumerafzal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me.mumerafzal@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923217211308)
