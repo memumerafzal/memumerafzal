@@ -20,22 +20,13 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me.mumerafzal@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923217211308)
 
+<br />
+
+<a href="https://github.com/memumerafzal"><img width="100%" src="https://ghchart.rshah.org/0e75b6/memumerafzal" alt="M. Umer Afzal's GitHub contribution graph" /></a>
+
 </div>
 
 ---
-
-### `~/ whoami`
-
-```yaml
-name:      M. Umer Afzal
-role:      DevOps & Cloud Security Engineer
-focus:
-  - Cloud Strategy
-  - Automations
-  - Integrations
-clouds:    [AWS, Azure, GCP]
-status:    open to freelance & remote work
-```
 
 I design, secure, and automate cloud platforms so teams can ship fast **without** cutting corners on security.
 
