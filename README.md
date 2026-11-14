@@ -20,14 +20,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me.mumerafzal@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923217211308)
 
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/memumerafzal/memumerafzal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/memumerafzal/memumerafzal/output/github-snake.svg" />
-  <img width="100%" alt="Contribution snake eating M. Umer Afzal's GitHub contribution graph" src="https://raw.githubusercontent.com/memumerafzal/memumerafzal/output/github-snake.svg" />
-</picture>
-
 </div>
 
 ---
